@@ -13,3 +13,12 @@ def main():
         print("Nice!")
 
 main()
+
+
+def answer():
+    ans = input("Do you want?: ")
+
+    print(ans)
+
+
+answer()
